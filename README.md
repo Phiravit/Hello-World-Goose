@@ -1,3 +1,9 @@
+# Non-Responsive Design
+
+### **Please be aware that this website does not currently support responsive design.**
+
+As a result, the layout and functionality may not adapt well to various screen sizes and devices. We apologize for any inconvenience this may cause and are working to improve the website's responsiveness in future updates.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
